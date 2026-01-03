@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-01-01 00:00:00+0100
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Looking for new opportunities! I'm open to roles in quantitative research, data science, and statistical modeling. Feel free to [reach out](mailto:darcy@darcykenworthy.com).

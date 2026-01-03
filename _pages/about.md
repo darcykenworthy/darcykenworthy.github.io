@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kenworthy-photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: Photo credit to Jonas Enander> 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Researcher at the [Oskar Klein Centre](https://www.okc.albanova.se/) at Stockholm University, working with [Ariel Goobar](https://www.su.se/english/profiles/goob-1.186612). My research focuses on statistical modeling, large-scale data analysis, and systematic uncertainty correction in cosmological measurements.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I recently contributed to the [Zwicky Transient Facility](https://www.ztf.caltech.edu/), helping release the largest-to-date sample of cosmological supernovae. My work involves developing predictive models for time-series data, analyzing large datasets to extract systematic patterns, and collaborating with international teams on data processing pipelines and uncertainty propagation methods.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my PhD in Astronomy at [Johns Hopkins University](https://physics-astronomy.jhu.edu/) under the supervision of [Adam Riess](https://physics-astronomy.jhu.edu/directory/adam-riess/) (Nobel Laureate), where I developed the [SALT3](https://github.com/djones1040/SALTShaker) statistical modeling framework for analyzing Type Ia supernova light curves. My dissertation, *Tightening the Distance Ladder*, was awarded the Rodger Doxsey Travel Prize by the American Astronomical Society.
+
+Prior to Johns Hopkins, I studied at the University of Cambridge, earning a BA in Natural Sciences (Physics) and an MSc in Astrophysics (Part III). I'm now looking to exercise my skills outside an academic context; feel free to reach out to me via email or Linkedin to discuss opportunities!
