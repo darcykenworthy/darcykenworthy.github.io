@@ -24,10 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Researcher at the [Oskar Klein Centre](https://www.okc.albanova.se/) at Stockholm University, working with [Ariel Goobar](https://www.su.se/english/profiles/goob-1.186612). My research focuses on statistical modeling, large-scale data analysis, and systematic uncertainty correction in cosmological measurements.
+I am a data scientist and cosmologist with expertise in statistical modeling, large-scale data analysis, and systematic uncertainty correction. After a year spent traveling, I'm now looking to exercise my skills outside an academic context; feel free to reach out to me via email or LinkedIn to discuss opportunities!
 
-I recently contributed to the [Zwicky Transient Facility](https://www.ztf.caltech.edu/), helping release the largest-to-date sample of cosmological supernovae. My work involves developing predictive models for time-series data, analyzing large datasets to extract systematic patterns, and collaborating with international teams on data processing pipelines and uncertainty propagation methods.
+From 2022 to 2025 I was a Postdoctoral Researcher at the [Oskar Klein Centre](https://www.okc.albanova.se/) at Stockholm University, working with [Ariel Goobar](https://www.su.se/english/profiles/goob-1.186612). As a member of the [Zwicky Transient Facility](https://www.ztf.caltech.edu/) collaboration, I helped release the largest-to-date sample of cosmological supernovae. My work involved developing predictive models for time-series data, analyzing large datasets to extract systematic patterns, and collaborating with international teams on data processing pipelines and uncertainty propagation methods.
 
 I completed my PhD in Astronomy at [Johns Hopkins University](https://physics-astronomy.jhu.edu/) under the supervision of [Adam Riess](https://physics-astronomy.jhu.edu/directory/adam-riess/) (Nobel Laureate), where I developed the [SALT3](https://github.com/djones1040/SALTShaker) statistical modeling framework for analyzing Type Ia supernova light curves. As a member of the SH0ES collaboration, I worked on increasing the precision of the measurement of $H_0$ and validating the SH0ES measurements through alternative metrics. My dissertation, *Tightening the Distance Ladder*, was awarded the Rodger Doxsey Travel Prize by the American Astronomical Society.
 
-Prior to Johns Hopkins, I studied at the University of Cambridge, earning a BA in Natural Sciences (Physics) and an MSc in Astrophysics (Part III). I'm now looking to exercise my skills outside an academic context; feel free to reach out to me via email or Linkedin to discuss opportunities!
+Prior to Johns Hopkins, I studied at the University of Cambridge, earning a BA in Natural Sciences (Physics) and an MSc in Astrophysics (Part III).
+

@@ -5,12 +5,12 @@
     "image": "",
     "email": "darcy-at-darcykenworthy.com",
     "phone": "+1 (704) 497-7230",
-    "url": "https://darcykenworthy.github.io",
+    "url": "https://darcykenworthy.com",
     "summary": "PhD-trained data scientist with expertise in statistical modeling, large-scale data analysis, and systematic uncertainty correction. Experience developing analytical frameworks adopted across international research collaborations. Seeking to leverage my expertise in statistical modeling towards market analysis and risk assessment.",
     "location": {
-      "city": "Stockholm",
-      "countryCode": "SE",
-      "region": "Sweden"
+      "city": "Chicago",
+      "countryCode": "USA",
+      "region": "Illinois"
     },
     "profiles": []
   },
@@ -19,7 +19,7 @@
       "name": "Oskar Klein Center, Stockholm University",
       "position": "Postdoctoral Researcher",
       "startDate": "2022-01-01",
-      "endDate": "",
+      "endDate": "2025-12-31",
       "summary": "Advisor: Ariel Goobar",
       "highlights": [
         "Worked on the Zwicky Transient Facility, release of largest-to-date sample of cosmological supernovae",
